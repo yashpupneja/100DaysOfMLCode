@@ -1,1 +1,1 @@
-Gives Introduction to Lists,Dictionaries , classes and visulaization and introduction to Relational Data
+Gives Introduction to Lists,Dictionaries , classes and Visualization and introduction to Relational Data
